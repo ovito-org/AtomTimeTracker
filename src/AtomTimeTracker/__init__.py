@@ -1,5 +1,5 @@
 #### Atom Time Tracker ####
-# Description of your Python-based modifier.
+# Track grains,clusters, etc. over time
 
 from collections import deque
 

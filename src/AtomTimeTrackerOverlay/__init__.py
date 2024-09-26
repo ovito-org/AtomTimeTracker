@@ -1,3 +1,6 @@
+#### Atom Time Tracker ####
+# Track grains,clusters, etc. over time
+
 import networkx as nx
 from ovito.data import DataCollection
 from ovito.vis import ViewportOverlayInterface
